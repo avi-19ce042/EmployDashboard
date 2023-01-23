@@ -1,0 +1,25 @@
+
+.bg-form{
+    background-color: aquamarine;
+}
+.m-top{
+margin-top: 50px;
+}
+.m-left{
+    margin-left:200px;
+}
+.spacing{
+    margin: 5px;
+    padding: 5px;
+    /* border: 1px solid red; */
+}
+.input{
+    border: 1px solid black;
+    border-radius: 3px;
+    width:80%;
+    height: 40px;
+}
+.text{
+    color: blue;
+    
+}

@@ -1,0 +1,17 @@
+
+<nav class="navbar navbar-light bg-info">
+<div class="container-fluid">
+  <h1>Employee Management System</h1>
+  <div class="d-flex">
+    <button class="btn "><a style="color:blue" [routerLink]="['/employ-list']">Employee List</a></button>
+          
+    <button class="btn"><a style="color:blue" [routerLink]="['/employ-form']">Add Employee</a></button>
+
+  </div>
+</div>
+</nav>
+
+<div class="container" style="background-color:beige ;">
+  <router-outlet></router-outlet>
+</div>
+

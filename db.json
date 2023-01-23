@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 18,
+      "name": "Aviral sinha",
+      "emailId": "avui@gmail.com",
+      "mobileNo": "1123344555",
+      "dept": "Choose..."
+    },
+    {
+      "id": 20,
+      "name": "Ayu",
+      "emailId": "ayu@gmail.com",
+      "mobileNo": "",
+      "dept": "Managed Services"
+    },
+    {
+      "id": 21,
+      "name": "aviral",
+      "emailId": "aviralssinha@gmail.com",
+      "mobileNo": "1234512345",
+      "dept": "HR"
+    },
+    {
+      "id": 22,
+      "name": "aviral",
+      "emailId": "aviralssinha@gmail.com",
+      "mobileNo": "1234512345",
+      "dept": "HR"
+    },
+    {
+      "id": 23,
+      "name": "Aditi",
+      "emailId": "hgkhefg@gmsia",
+      "mobileNo": "2757222554",
+      "dept": "Finance"
+    },
+    {
+      "id": 24,
+      "name": "Aditi",
+      "emailId": "hgkhefg@gmsia",
+      "mobileNo": "2757222554",
+      "dept": "Finance"
+    },
+    {
+      "id": 25,
+      "name": "asdfgh",
+      "emailId": "aviraha@gmail.com",
+      "mobileNo": "1234512345",
+      "dept": "HR"
+    },
+    {
+      "id": 26,
+      "name": "asdfgh",
+      "emailId": "aviraha@gmail.com",
+      "mobileNo": "1234512345",
+      "dept": "HR"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

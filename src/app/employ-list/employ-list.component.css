@@ -1,0 +1,20 @@
+.onEdit:active{
+    background-color: blue;
+}
+.onEdit:hover{
+   color: aqua;
+}
+.onEdit{
+    text-decoration: none;
+    color: blue;
+}
+.onDelete:active{
+    background-color: palevioletred;
+}
+.onDelete:hover{
+   color: palevioletred;
+}
+.onDelete{
+    text-decoration: none;
+    color: red;
+}

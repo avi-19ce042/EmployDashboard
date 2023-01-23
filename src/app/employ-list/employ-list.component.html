@@ -1,0 +1,27 @@
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <!-- <th>id</th> -->
+            <th>Name</th>
+            <th>MobileNo</th>
+            <th>Email</th>
+            <th>Department</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr  *ngFor="let emp of employeeData">
+            <!-- <td>{{emp.id}}</td> -->
+            <td>{{emp.name}}</td>
+            <td>{{emp.mobileNo}}</td>       
+            <td>{{emp.emailId}}</td>     
+            <td>{{emp.dept}}</td>     
+            <!--      -->
+            <td>
+                <button class="btn onEdit"><a class="onEdit" (click)="editEmploy(emp)" [routerLink]="['/employ-form']" [queryParams]="{ id: emp.id }">Edit</a></button>
+                <button class="btn onDelete mx-3"><a (click)="deleteEmploy(emp)">Delete</a></button>
+            </td>
+        </tr>
+    </tbody>
+</table>

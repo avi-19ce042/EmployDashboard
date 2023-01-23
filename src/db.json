@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Ayush",
+      "emailId": "ayujjkkl@sddf",
+      "mobileNo": "1234565499",
+      "dept": "Admin"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
